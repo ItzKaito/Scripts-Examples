@@ -1,0 +1,7 @@
+public class Frenz1 {
+
+    public static void main(String[] args) {
+        String input1 = JOptionPane.showInputDialog("Enter Name:");
+                 int frenz = Integer.parseInt(input1);
+                JOptionPane.showMessageDialog(null, frenz + "gwapo hehe gwapo");
+    }
