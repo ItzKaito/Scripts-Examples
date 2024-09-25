@@ -1,0 +1,11 @@
+    public static void main(String[] args) {
+        int frenz[] = {12,11,69,420,69,580,360,180,5,20,11,50,30};
+        
+        int naldrelle[] = new int[10];
+        double[] lorie = new double[5];
+        naldrelle[5] = 10;
+        
+        for (int i = 0; i <frenz.length; i++){
+            System.out.println(frenz[i]);
+        }
+    }
