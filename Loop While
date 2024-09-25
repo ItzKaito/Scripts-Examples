@@ -1,0 +1,11 @@
+public class Kaitoloop {
+
+    public static void main(String[] args) {
+        Scanner input=new Scanner(System.in);
+        String in=input.next();
+        
+        while (in.equals("hakdog")) {
+            System.out.println("diay?");
+            in=input.next();
+        }
+    }
